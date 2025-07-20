@@ -11,6 +11,7 @@ export default function Home() {
         {/* <a href="/users">User Pages</a> */}
         <Link href="/users">Users</Link>
         <ProductCart/>
+        <h1>AutoUpdate</h1>
       </main>
     </div>
   );
