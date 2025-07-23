@@ -19,7 +19,7 @@ const UserPages = async() => {
                 return(
                     <li key={user.id}>
                         {user.name}
-                        cubicalcity
+                       {user.id}
                     </li>
                 )
             })
